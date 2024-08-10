@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+body {
+    background-image: url(./background.jpg);
+    background-size: 100% 100vh;
+
+}
+
+.mid-line {
+    width: 5px;
+    height: 100vh;
+    border: 5px solid rgb(0, 81, 156);
+    left: 50%;
+    position: absolute;
+}
